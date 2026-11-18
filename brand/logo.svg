@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f7dff"/>
+      <stop offset="1" stop-color="#2444ad"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" fill="url(#bg)"/>
+  <!-- bong bóng thoại -->
+  <path d="M232 250h560a72 72 0 0 1 72 72v330a72 72 0 0 1-72 72H470l-150 118v-118h-88a72 72 0 0 1-72-72V322a72 72 0 0 1 72-72z" fill="#ffffff"/>
+  <!-- chữ EN -->
+  <text x="402" y="578" text-anchor="middle" font-family="Arial Black, Helvetica Neue, Arial, sans-serif" font-weight="900" font-size="250" letter-spacing="-6" fill="#2444ad">EN</text>
+  <!-- nút play -->
+  <circle cx="714" cy="487" r="86" fill="#ffc83d"/>
+  <path d="M688 440v94l78-47z" fill="#2444ad"/>
+</svg>
